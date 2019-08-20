@@ -1,0 +1,3 @@
+background: url(../images/dress3.jpg) no-repeat;
+    background-position: top center;
+    background-size: contain;
